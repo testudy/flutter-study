@@ -10,7 +10,7 @@ class WriteWordApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.green,
       ),
-      home: HomePage(title: '首页'),
+      home: HomePage(),
     );
   }
 }
