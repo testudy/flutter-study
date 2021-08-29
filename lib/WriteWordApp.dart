@@ -6,11 +6,11 @@ class WriteWordApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: '学习汉字',
+      title: '学习Flutter',
       theme: ThemeData(
         primarySwatch: Colors.green,
       ),
-      home: HomePage(title: '学习汉字首页'),
+      home: HomePage(title: '首页'),
     );
   }
 }
