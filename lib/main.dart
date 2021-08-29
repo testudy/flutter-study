@@ -4,5 +4,3 @@ import './WriteWordApp.dart';
 void main() {
   runApp(WriteWordApp());
 }
-
-
