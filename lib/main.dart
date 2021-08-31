@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
-import './WriteWordApp.dart';
+import './BooksApp.dart';
 
-void main() => runApp(WriteWordApp());
+void main() => runApp(BooksApp());
